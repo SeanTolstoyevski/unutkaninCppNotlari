@@ -1,0 +1,6 @@
+[book]
+authors = ["SeanTolstoyevski"]
+language = "tr-TR"
+multilingual = false
+src = "src"
+title = "C++ Notları"
