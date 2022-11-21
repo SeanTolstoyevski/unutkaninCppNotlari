@@ -4,3 +4,7 @@ language = "tr-TR"
 multilingual = false
 src = "src"
 title = "C++ Notları"
+
+
+[output.html.print]
+enable = false

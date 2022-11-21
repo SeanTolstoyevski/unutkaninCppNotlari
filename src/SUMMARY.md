@@ -12,6 +12,8 @@
 - [`auto`](./auto.md)
 - [`if` ve Gövdede Tanımlanabilen Değişkenler](./if_ve_govdede_tanimlanan_degiskenler.md)
 - [Lambda İfadeleri](./lambda'lar.md)
+- [`std::array`](./std__array.md)
+- [`std::is_signed`](./std__is_signed.md)
 
 - [Poco Kütüphanesi](./Poco/main.md)
 	* [`now`](./Poco/now.md)
