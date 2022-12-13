@@ -46,4 +46,10 @@ Derleyiciye kod hakkinda daha fazla bilgi vererek olasi optimizasyonlari daha da
         return 5104;
     };
 ```
+## Lambda'lar Hakkinda Onemli Notlar
 
+Lambda'lar aslinda dildeki siniflar gibi davranan ogeler.
+
+Derleyici, lambda ifadesini bir class'a ceviriyor ve lambda'nin yurutulmesini clas'in __operator fonksiyonuna__ bagliyor.
+
+Lambda'larin da kendilerine ait tipki siniflar gibi bir scope'lari oluyor. Kendi kapsamlarinin disindaki ogelere erismek icin onlari yakalamasi (capture etmesi) gerekiyor.

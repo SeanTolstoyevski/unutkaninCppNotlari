@@ -14,6 +14,7 @@
 - [Lambda İfadeleri](./lambda'lar.md)
 - [`std::array`](./std__array.md)
 - [`std::is_signed`](./std__is_signed.md)
+- [Overloader İdiomu](./overloader_idiomu.md)
 
 - [Poco Kütüphanesi](./Poco/main.md)
 	* [`now`](./Poco/now.md)
