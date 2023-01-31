@@ -3,6 +3,7 @@
 [Giriş](./main.md)
 
 - [C ve C++ Farklılıkları](./c_cpp_farkliliklari.md)
+- [`bool`'a dönüşüm kuralları](./bool_conversions.md)
 - [Scoped Enum (Kapsamlandırılmış Numaralandırma Türleri)](./scoped_enums.md)
 - [Constructor'lar](./ctor'lar.md)
 - [Decltype Notları](./decltype.md)
