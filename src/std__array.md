@@ -1,4 +1,4 @@
-# `std::array` : `<array>` c++11'den beri
+# `std::array` : `<array>` - c++11'den beri
 
 - `std::array`, dile gomulu olan `array`'dan farkli degildir. Sadece daha guvenli olarak sarmalanmis bir versiyonudur.
 - `std::array` kullanimi herhangi bir zaman / performans sorunu uretmez.

@@ -8,6 +8,10 @@ Ayni sekilde `if`in `else`, `if-else` bloklarinda da degisken erisilebilir oluyo
 Asagidaki kodu inceleyelim:
 
 ```c++
+// g++ main.cpp -Wall -Wextra
+
+#include <iostream>
+
 int sum(int a, int b)
 {
     return a + b * b - a;
@@ -17,12 +21,15 @@ int sum(int a, int b)
 
 int main()
 {
-int a, int b{};
+int a, b{};
     std::cin >> a >> b;
 
-    if (auto total = sum(a, b) != 12) {
+    if (auto total = sum(a, b);
+        total != 12) {
+        std::cout << "total value inside of if: " << total << std::endl;
         total -= a * 5;
     }        else {
+        std::cout << "total value inside of else: " << total << std::endl;
             // total burada da gecerli.
             // if blogumuz bitene kadar bu degiskeni kullanabiliriz.
             total++;

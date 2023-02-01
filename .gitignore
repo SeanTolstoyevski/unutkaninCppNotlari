@@ -3,3 +3,8 @@ book
 *.bak
 
 *.html
+
+*.exe
+
+a.out
+
