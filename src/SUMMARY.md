@@ -6,11 +6,11 @@
 - [`bool`'a dönüşüm kuralları](./bool_conversions.md)
 - [Scoped Enum (Kapsamlandırılmış Numaralandırma Türleri)](./scoped_enums.md)
 - [storage classes](./storage_classes.md)
+- [`constexpr`](./constexpr.md)
 - [Constructor'lar](./ctor'lar.md)
 - [Decltype Notları](./decltype.md)
 - [Ofstream Notları](./ofstream.md)
 - [`std::unique_ptr`](./std_unique_ptr.md)
-
 - [`auto`](./auto.md)
 - [`if` ve Gövdede Tanımlanabilen Değişkenler](./if_ve_govdede_tanimlanan_degiskenler.md)
 - [Lambda İfadeleri](./lambda'lar.md)
