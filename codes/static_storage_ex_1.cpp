@@ -1,6 +1,7 @@
 #include <iostream>
 
-class StaticStorageTest {
+class StaticStorageTest
+{
 public:
   StaticStorageTest() noexcept { std::cout << "i am constructed\n"; }
 
@@ -9,7 +10,8 @@ public:
 
 StaticStorageTest sglobal = StaticStorageTest();
 
-int main() {
+int main()
+{
   std::cout << "main basliyor\n";
 
   std::cout << "main bitiyor\n";
