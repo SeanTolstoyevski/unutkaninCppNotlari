@@ -19,6 +19,7 @@
 - [Overloader İdiomu](./overloader_idiomu.md)
 
 - [regex örneği 1](./std__regex_ex_1.md)
+ - [`std::iota`](./std__iota.md)
 
 - [Poco Kütüphanesi](./Poco/main.md)
 	* [`now`](./Poco/now.md)
